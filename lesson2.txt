@@ -2,3 +2,12 @@ As soon as I initialize a repository, git starts to keep track on my actions.
 
 The value of the staging area is that multiple changes can be seperated into different and thus
 meaningful commits
+
+I can use the staging area to only use one commit per logical change: Only stage one logical change,
+commit it and then stage the second logical change, commit it and so on.
+
+Branching helps me when experimenting or creating different versions which should not affect the 
+master branch.
+
+Diagrams help me to visualize the branch structure since they always tell me how different versions 
+are related. 
