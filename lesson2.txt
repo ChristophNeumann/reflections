@@ -1,0 +1,1 @@
+As soon as I initialize a repository, git starts to keep track on my actions.
