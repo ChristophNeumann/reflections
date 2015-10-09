@@ -1,0 +1,6 @@
+I have been writing many thoughts here. Unfortionately it did not save my changes.
+
+git diff and git log are very usefull: log can be used to show all changes, diff is used to show differences of two files.
+They are marked red/ green
+
+I will always be able to see where the error was made
