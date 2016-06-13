@@ -1,6 +1,6 @@
 As soon as I initialize a repository, git starts to keep track on my actions.
 
-The value of the staging area is that multiple changes can be seperated into different and thus
+The value of the staging area is that multiple changes can be separated into different and thus
 meaningful commits
 
 I can use the staging area to only use one commit per logical change: Only stage one logical change,
